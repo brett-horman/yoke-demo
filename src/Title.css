@@ -10,3 +10,10 @@
     background-color: rgb(232, 136, 20);
     color: #fff;
 }
+.Title-Subtitle {
+    display: flex;
+    justify-content: center;
+    align-content: baseline;
+    margin-bottom: 1em;
+    color: white;
+}
